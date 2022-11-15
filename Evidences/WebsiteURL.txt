@@ -1,0 +1,6 @@
+Hi Udacity .. 
+
+you can find my website URL bellow: 
+"https://wwwmysite.azurewebsites.net"
+
+please open this link to see the frontend deployment. 
